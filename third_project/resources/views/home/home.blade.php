@@ -1,7 +1,9 @@
 @extends('master')
-@section('title')
-    Home
+
+@section('tittle')
+    <title>home</title>
 @endsection
+
 @section('body')
-    <h2 class="text-center text-success font-weight-bold">hello bitm</h2>
+    <h2 class="text-center text-success font-weight-bold">Hello BITM</h2>
 @endsection
